@@ -1,0 +1,14 @@
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\Book.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\errors\UserNotRegisteredException.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\errors\BookNotFoundException.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\errors\BookAlreadyBorrowedException.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\services\ReviewService.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\Library.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\services\DatabaseService.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\errors\BookNotBorrowedException.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\services\NotificationService.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\errors\ReviewServiceUnavailableException.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\errors\NoReviewsFoundException.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\User.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\errors\ReviewException.java
+C:\Users\marik\Desktop\university\2023-2024\Quality assurance\assignment\src\main\java\ac\il\bgu\qa\errors\NotificationException.java
